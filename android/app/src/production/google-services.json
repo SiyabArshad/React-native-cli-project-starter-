@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "259132429437",
+    "project_id": "winitjobs-60311",
+    "storage_bucket": "winitjobs-60311.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:259132429437:android:4c58252ea4d7466c540d14",
+        "android_client_info": {
+          "package_name": "com.winitjobs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "259132429437-co56ajf0q4d6f5o5f585a8tuaoh9ufqp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.winitjobs",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "259132429437-qmqc3s75kgtis19dqdm8l868gukcvr5n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOQuC1sG6kV49Hgmrr4cFqA9jECF7XPb0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "259132429437-n21dub09quv5icqbk1c9uv8o4is8aplq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "259132429437-cpejc6gvt4d3c9nd5mi2d4oh1hksehhf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.winitjobs"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:259132429437:android:1415a70afa95ad4e540d14",
+        "android_client_info": {
+          "package_name": "com.winitjobs.development"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "259132429437-j6pd6truntd537597pv9006tai52vg9b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.winitjobs.development",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "259132429437-qmqc3s75kgtis19dqdm8l868gukcvr5n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOQuC1sG6kV49Hgmrr4cFqA9jECF7XPb0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "259132429437-n21dub09quv5icqbk1c9uv8o4is8aplq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "259132429437-cpejc6gvt4d3c9nd5mi2d4oh1hksehhf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.winitjobs"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
