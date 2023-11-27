@@ -1,3 +1,3 @@
-import * from "./fonts"
-import * from "./Images/index"
-import * from "./icons"
+export * from "./fonts"
+export * from "./Images/index"
+export * from "./icons"
